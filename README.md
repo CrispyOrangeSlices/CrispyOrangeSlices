@@ -1,13 +1,17 @@
 <h1 align="center">Heya👋, I'm Orange Slices</h1>
-<h3 align="center">Security Engineer from the US</h3>
+<h3 align="center">Security Engineer, United States</h3>
+<h4 align="center">Open to Work</h3>
 
-- 🌱 I’m currently learning **TryHackMe Learning Paths**
+- 🌱 This is a new account I will be using for CyberSecurity-related Programming
+
+- 🧠 I’m currently learning **TryHackMe Learning Paths**
 
 - 💬 Ask me about **CTFs,**
 
 - 📫 Contact **crispy.orange.slices@gmail.com**
 
-- 📄Computer Science, M.S - 2022
+- 🎓Computer Science, M.S - 2022
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
