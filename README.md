@@ -1,6 +1,6 @@
 <h1 align="center">Heya👋, I'm Orange Slices</h1>
-<h3 align="center">Security Engineer, United States</h3>
-<h4 align="center">Open to Work</h3>
+<h3 align="center">Software Engineer, United States</h3>
+<h4 align="center">Embedded, Cybersecurity, Data Science, Web Development</h3>
 
 - 🌱 This is a new account I will be using for CyberSecurity-related Programming
 
