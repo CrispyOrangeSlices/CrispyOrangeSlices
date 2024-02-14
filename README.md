@@ -1,16 +1,8 @@
 <h1 align="center">Heya👋, I'm Orange Slices</h1>
-<h3 align="center">Software Engineer, United States</h3>
-<h4 align="center">Embedded, Cybersecurity, Data Science, Web Development</h3>
 
-- 🌱 This is a new account I will be using for CyberSecurity-related Programming
-
-- 🧠 I’m currently learning **TryHackMe Learning Paths**
-
-- 💬 Ask me about **CTFs,**
 
 - 📫 Contact **crispy.orange.slices@gmail.com**
 
-- 🎓Computer Science, M.S - 2022
 
 
 <h3 align="left">Connect with me:</h3>
